@@ -1,2 +1,2 @@
 # GTNH-Faithful-MushEdition
-Another resourspack for GT:NH
+Another resourcepack for GT:NH
